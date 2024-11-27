@@ -1,0 +1,14 @@
+/* Custom Styles for the Portfolio */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#about img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+#portfolio img {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
