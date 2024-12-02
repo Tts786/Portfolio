@@ -1,0 +1,21 @@
+/* src/App.css */
+.home {
+  background-color: #f4f4f4;
+  padding-top: 50px;
+}
+
+.about {
+  background-color: #f8f9fa;
+}
+
+.skills {
+  background-color: #ffffff;
+}
+
+.projects {
+  background-color: #f4f4f4;
+}
+
+.contact {
+  background-color: #f8f9fa;
+}
